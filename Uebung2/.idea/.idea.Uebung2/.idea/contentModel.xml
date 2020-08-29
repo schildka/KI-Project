@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\s363936\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\s363936\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Uebung2.2102087594.00" t="ExcludeRecursive" />
+    <e p="C:\Users\s363936\Documents\pacman\Uebung2" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Assignment" t="Include">
+          <e p="GhostController.cs" t="Include" />
+          <e p="GlobalKnowledgeSensor.cs" t="Include" />
+          <e p="MazeGraph.cs" t="Include" />
+          <e p="MazeGraphForGhosts.cs" t="Include" />
+          <e p="MazeGraphForPacMan.cs" t="Include" />
+          <e p="MsPacManController.cs" t="Include" />
+        </e>
+        <e p="Framework" t="Include">
+          <e p="Lib" t="Include">
+            <e p="Graphs" t="Include">
+              <e p="AStar.cs" t="Include" />
+              <e p="BreadthFirstSearch.cs" t="Include" />
+              <e p="DepthFirstSearch.cs" t="Include" />
+              <e p="DepthLimitedSearch.cs" t="Include" />
+              <e p="Node.cs" t="Include" />
+            </e>
+            <e p="Helper.cs" t="Include" />
+          </e>
+          <e p="Mazes" t="Include">
+            <e p="Maze1.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Agents" t="Include">
+              <e p="Agent.cs" t="Include" />
+              <e p="Direction.cs" t="Include" />
+              <e p="Ghost.cs" t="Include" />
+              <e p="MsPacMan.cs" t="Include" />
+            </e>
+            <e p="Controller" t="Include">
+              <e p="AgentController.cs" t="Include" />
+              <e p="HumanPacManController.cs" t="Include" />
+              <e p="KeyboardController.cs" t="Include" />
+              <e p="RandomizedGhostController.cs" t="Include" />
+            </e>
+            <e p="GameMode" t="Include">
+              <e p="GameData.cs" t="Include" />
+              <e p="GameMode.cs" t="Include" />
+              <e p="GameUI.cs" t="Include" />
+              <e p="SimpleGame.cs" t="Include" />
+            </e>
+            <e p="Maze" t="Include">
+              <e p="Junction.cs" t="Include" />
+              <e p="Maze.cs" t="Include" />
+              <e p="Tile.cs" t="Include" />
+            </e>
+            <e p="Pickups" t="Include">
+              <e p="PickupItem.cs" t="Include" />
+            </e>
+            <e p="Sensors" t="Include">
+              <e p="Ears.cs" t="Include" />
+              <e p="Eyes.cs" t="Include" />
+              <e p="MazeMap.cs" t="Include" />
+              <e p="Nose.cs" t="Include" />
+              <e p="Sensor.cs" t="Include" />
+              <e p="Sound.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Uebung2.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
